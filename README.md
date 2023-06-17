@@ -1,5 +1,5 @@
 # arduino-UNO-Render-Compressed-Sprite
-This code decodes and renders  compressed sprite on ILI9341 LCD display for Arduino Game Project afterwards.
+This code decodes and renders Run-length-encoded sprite on ILI9341 LCD display for Arduino Game Project afterwards.
 
 You can simulate code here
 https://wokwi.com/projects/367235540294396929
