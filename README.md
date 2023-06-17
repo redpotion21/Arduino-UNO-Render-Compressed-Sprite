@@ -1,4 +1,4 @@
-# arduino-UNO-Render-encoded-Sprite
+# Arduino-UNO-Render-Encoded-Sprite
 This code decodes and renders Run-length-encoded sprite on ILI9341 LCD display for Arduino Game Project afterwards.
 
 You can simulate code here
